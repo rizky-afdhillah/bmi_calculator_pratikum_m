@@ -1,6 +1,8 @@
 # bmi_calculator_pratikum_m
 
-A new Flutter project.
+Nama Rizky Afdhillah
+NPM 19630592
+Prodi Teknik Informatika
 
 ## Getting Started
 
